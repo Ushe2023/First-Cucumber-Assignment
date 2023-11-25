@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.216" tests="2" skipped="0" failures="1" errors="0">
+<testcase classname="Facebook Application" name="Logining in" time="0.016">
+</testcase>
+<testcase classname="Facebook Application" name="Test the login functionality using valid credentials" time="0.017">
+<failure/>
+<system-out><![CDATA[
+Given Open the Browser......................................................undefined
+Given Navigate to Facebook Website..........................................skipped
+When Enter a valid email "ushervka@gmail.com"...............................skipped
+When Enter a valid password "Welcome@123"...................................skipped
+When Click on login button..................................................skipped
+Then Verify home page.......................................................skipped
+And Close the browser.......................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
